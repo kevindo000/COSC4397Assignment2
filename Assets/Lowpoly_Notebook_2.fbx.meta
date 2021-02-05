@@ -6,7 +6,17 @@ ModelImporter:
   - first:
       74: 4781951162920444690
     second: Armature|ArmatureAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lowpoly_Body
+    second: {fileID: 2100000, guid: de1bf7cbfd106144d8b43adadca58b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lowpoly_Screen
+    second: {fileID: 2100000, guid: ca31683ed13a6784b92383c92104254f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
